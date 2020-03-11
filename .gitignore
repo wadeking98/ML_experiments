@@ -1,0 +1,4 @@
+datasets/PetImages/Cat/*
+datasets/PetImages/Dog/*
+datasets/*.zip
+sample/*
